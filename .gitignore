@@ -55,3 +55,4 @@ __pycache__/
 .env
 .env.*
 !.env.example
+practice/01-hello-cpp/main
