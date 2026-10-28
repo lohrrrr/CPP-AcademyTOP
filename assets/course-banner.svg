@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">C++ — основы программирования</title>
+  <desc id="desc">Обложка учебного репозитория МДК.01.05, группа 9/2-РПО-25/1</desc>
+  <rect width="1200" height="280" rx="20" fill="#102131"/>
+  <path d="M900 0H1200V280H780Z" fill="#163348"/>
+  <rect x="48" y="40" width="105" height="29" rx="14" fill="#214659"/>
+  <text x="100" y="60" text-anchor="middle" fill="#8CE1D4" font-family="Arial,sans-serif" font-size="14" font-weight="700">МДК.01.05</text>
+  <text x="48" y="135" fill="#F4F8FB" font-family="Arial,sans-serif" font-size="47" font-weight="700">Основы программирования</text>
+  <text x="48" y="183" fill="#A9C3D3" font-family="Arial,sans-serif" font-size="25">Учебные работы · C++17</text>
+  <text x="48" y="239" fill="#8CE1D4" font-family="Arial,sans-serif" font-size="17">КОЛЛЕДЖ / 9/2-РПО-25/1</text>
+  <text x="920" y="165" fill="#8CE1D4" font-family="Consolas,monospace" font-size="76" font-weight="700">C++</text>
+  <text x="925" y="208" fill="#7496AD" font-family="Consolas,monospace" font-size="20">int main()</text>
+</svg>

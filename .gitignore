@@ -1,0 +1,57 @@
+# Компилятор и собранные программы
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.pch
+*.tlog
+*.log
+*.res
+*.lib
+*.a
+*.so
+*.dylib
+*.dll
+*.exp
+*.app/
+hello
+
+# Папки сборки
+build/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+out/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Локальные данные среды; файлы проектов .sln/.vcxproj сохраняются
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+.vscode/
+.idea/
+
+# Система и временные файлы
+.DS_Store
+Thumbs.db
+*.tmp
+*~
+__pycache__/
+*.pyc
+
+# Локальные секреты
+.env
+.env.*
+!.env.example
